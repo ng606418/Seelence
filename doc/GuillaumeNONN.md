@@ -59,7 +59,7 @@ Si il n'y a pas de détection sur les deux mais un seul la comparasion analogiqu
 
 J'ai pu intégrer au code, le Code example donné au cours du TP2 pour permettre d'envoyer les données perçu par le capteur sur un poste central pouvant servir au caloibrage de détection des capteurs et ainsi avoir une idée de la détections exact sur le moniteur en série	 arduino.
 
-
+En utilisant un deuxième Arduino en réception nous avons pu faire le pont entre les lunettes et le moniteur en série arduino sur le PC.
 
 
 
