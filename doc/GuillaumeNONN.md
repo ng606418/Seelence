@@ -60,7 +60,15 @@ Si il n'y a pas de détection sur les deux mais un seul la comparasion analogiqu
 J'ai pu intégrer au code, le Code example donné au cours du TP2 pour permettre d'envoyer les données perçu par le capteur sur un poste central pouvant servir au caloibrage de détection des capteurs et ainsi avoir une idée de la détections exact sur le moniteur en série	 arduino.
 
 En utilisant un deuxième Arduino en réception nous avons pu faire le pont entre les lunettes et le moniteur en série arduino sur le PC.
+ * Hors séance 02/05 :
+Montage intégrale des lunettes :
+![lunette 1](https://scontent-mrs2-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/59569075_1296272177195489_4285080633471926272_n.jpg?_nc_cat=106&_nc_ht=scontent-mrs2-1.xx&oh=d1af8e4f488eed18e5a41320500cb18d&oe=5D2CA0B7)
+
+![lunette 2](https://scontent-mrs2-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/59520767_823895367963244_4504789994736451584_n.jpg?_nc_cat=106&_nc_ht=scontent-mrs2-1.xx&oh=be868f81645a156edee68bca2789f52d&oe=5D6219B0)
+
+![lunette 3](https://scontent-mrs2-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/59301216_451880292251900_891033322522673152_n.jpg?_nc_cat=102&_nc_ht=scontent-mrs2-1.xx&oh=c87ceae44e0fbc1ee9596db20ad66fd5&oe=5D700E31)
 
 
+* Présentation du projet Vendredi 03 Mai 14h30.
 
 -----------------------------------------------------------------------------------------------------------------------------------
