@@ -18,7 +18,7 @@ Les pièces n'ayant pas été reçu en ce jour nous n'avons pas pu connecter les
 Capteurs audio toujours a régler . Nous avons des capteurs qui marche en théorie mais pas en pratique . 
 Nous essayons de comprendre comment ses capteurs marchent avec le code que nous avons réalisés .
 
-*Séance du 22/04 : 
+*Séance du 23/04 : 
 
 Optimisation et premiers câblages sur Dashboard . 
 N’ayant pas de lentille ni de miroir nous réfléchissons a faire différemment pour pouvoir intégré l’écran OLED commandé . 
