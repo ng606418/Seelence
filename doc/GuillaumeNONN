@@ -4,9 +4,9 @@ Séance du 08/04 : Présentation  intermédiaire du projet, avec présentation d
 Les pièces n'ayant pas été reçu en ce jour nous n'avons pas pu connecter les capteurs audio comme voulu.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Séance du 15/04 : Récéption des pièces dont deux capteurs audio différents, c'est à nous de les tester et de choisir le plus optimisé à notre projet.
-(photo des pièces en ma possession )
 J'ai passé la séance a comprendre et à essayer de faire foncitonner un écran OLED avec les librairies adafruit arduino présent sur Github 
-(photo de l'écran en fonctionnement)
+![Ecran] (https://startingelectronics.org/tutorials/arduino/modules/OLED-128x64-I2C-display/geekcreit-128x64-oled-display-demo.jpg)
 L'écran fonctionne suite à plusieurs test avec un code exemple présent dans la libraire adafruit.(https://github.com/adafruit/Adafruit_SSD1306) et (https://github.com/adafruit/Adafruit-GFX-Library)
 (screen du code)
 Nous n'avons pas encore toutes les pièces
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
