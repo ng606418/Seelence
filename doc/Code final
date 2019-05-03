@@ -10,8 +10,8 @@ Adafruit_SSD1306 display(OLED_RESET);
 
 int analogPinD = A0;      //Sound Sensor Droit
 int analogPinG = A1;      //Sound Sensor Gauche
-const char pinLedD = 9;   //Led Droite
-const char pinLedG = 10;  //Led Gauche
+const char pinLedD = 7;   //Led Droite
+const char pinLedG = 3;  //Led Gauche
 int counter = 0;
 
 // Parameters you can play with :
